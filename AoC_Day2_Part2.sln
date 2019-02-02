@@ -5,6 +5,13 @@ VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AoC_Day2_Part2", "AoC_Day2_Part2\AoC_Day2_Part2.csproj", "{F1C8FC89-4714-4A7A-A85E-11EDA844AC4A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0AA1C585-D46E-49FD-AC0F-C7620BCBEE5E}"
+	ProjectSection(SolutionItems) = preProject
+		..\AoC_Day_2\PuzzleInput.txt = ..\AoC_Day_2\PuzzleInput.txt
+		..\AoC_Day_2\ReadMe.txt = ..\AoC_Day_2\ReadMe.txt
+		..\AoC_Day_2\TestInput.txt = ..\AoC_Day_2\TestInput.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
